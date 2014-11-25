@@ -1,0 +1,9 @@
+How to use
+
+=========================
+
+1. Click the report tab, not the custom or custom beta.
+2. in the drop down menu, select Schedules (Future) in Report Type, assign the period and select only one client, and click "Show Report".  
+3.Once you see the schedule report, hit Ctrl-A and Ctrl-C to copy everything, paste into New Text Document.txt and save it.  
+4.Run the Ruby script, a new text file "output.txt" containing reformated report will appear. There will be a horizontal line if non-stop covarage not met. 
+5.open a new Word document, make it two column, copy/paste all content of the output.txt to make it for printing.
