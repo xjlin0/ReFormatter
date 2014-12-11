@@ -40,19 +40,20 @@ File.readlines(reports).each do |line|
 	if (yesterday != today) and (residual.length>0) then #if it's a different day from the last line. ""
       f.puts "Warning: please recheck 24hr coverage above...........................\r\n" if ((aday.length > 1) and (rangestart.to_date<startTime.to_date))
 	  #f.puts "00"
-	  f.printf("\r\n%s\t%s-%s%-9s\r\n",startTime.strftime("%^a.%m/%d"),startTime.strftime("%l:%M%p"), endTime.strftime("%l:%M%p"),cg)
+	  f.printf("\r\n%s\t%s-%s%-9s#{aday.length} #{residual.length} #{yesterday} #{today}\r\n",startTime.strftime("%^a.%m/%d"),startTime.strftime("%l:%M%p"), endTime.strftime("%l:%M%p"),cg)
 	  main_start=Time.strptime(today+" 12:00 AM", ' %m/%d/%Y %I:%M %p').to_i/60 #For re-creating a new whole day array
 	  aday=Array(main_start..main_start+1439)  # - residual
       aday = aday - residual  #take away the last shift array from the whole day array
 	  residual=Array(startTime.to_i/60..endTime.to_i/60) #replace the last shift array by the current shift
       aday = aday - residual  #take away current shift time from whole day array
 	else
-	f.printf("\t\t%s-%s%-9s\r\n",startTime.strftime("%l:%M%p"), endTime.strftime("%l:%M%p"), cg) if (aday.length > 1 and rangestart.to_date<=startTime.to_date)# '=' require
+	f.printf("\t\t%s-%s%-9s#{aday.length} #{residual.length} #{yesterday} #{today}\r\n",startTime.strftime("%l:%M%p"), endTime.strftime("%l:%M%p"), cg) if (aday.length > 1 and rangestart.to_date<=startTime.to_date)# '=' require
     aday = aday - residual  #take away the last shift array from the whole day array
 	residual=Array(startTime.to_i/60..endTime.to_i/60) #replace the last shift array by the current shift
 	aday = aday - residual  #take away current shift time from whole day array
 	end  
-  else    
+  else
+    puts "please debug"
   end
  end
 f.close
