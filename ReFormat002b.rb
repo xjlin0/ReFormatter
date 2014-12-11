@@ -37,8 +37,7 @@ File.readlines(reports).each do |line|
   if client_names!=''  && shifts =~/^(\d{2})\/(\d{2})\/(\d{4})/ then #shift lines always begin with ^dates. 
     shift_date, cg, startTime, endTime=read_shift(shifts)[0],read_shift(shifts)[1],read_shift(shifts)[2],read_shift(shifts)[3] #parsing shift time
     f.puts "#{rangestart.strftime("%B")} schedule for #{client_names.join}\r\n\r\n" if client_names.length==1 and rangestart.to_date>startTime.to_date
-
-	if (yesterday != today) and (residual.length>0) and (yesterday =~/^(\d{2})\/(\d{2})\/(\d{4})/) then #if it's a different day from the last line. ""
+	if (yesterday != today) and (residual.length>0) then #if it's a different day from the last line. ""
       f.puts "Warning: please recheck 24hr coverage above...........................\r\n" if ((aday.length > 1) and (rangestart.to_date<startTime.to_date))
 	  #f.puts "00"
 	  f.printf("\r\n%s\t%s-%s%-9s\r\n",startTime.strftime("%^a.%m/%d"),startTime.strftime("%l:%M%p"), endTime.strftime("%l:%M%p"),cg)
@@ -47,18 +46,13 @@ File.readlines(reports).each do |line|
       aday = aday - residual  #take away the last shift array from the whole day array
 	  residual=Array(startTime.to_i/60..endTime.to_i/60) #replace the last shift array by the current shift
       aday = aday - residual  #take away current shift time from whole day array
-	  #f.puts "if_end"
 	else
-	  f.printf("\t\t%s-%s%-9s\r\n",startTime.strftime("%l:%M%p"), endTime.strftime("%l:%M%p"), cg) if (aday.length > 1 and rangestart.to_date<=startTime.to_date)# '=' require
-      aday = aday - residual  #take away the last shift array from the whole day array
-	  residual=Array(startTime.to_i/60..endTime.to_i/60) #replace the last shift array by the current shift
-	  aday = aday - residual  #take away current shift time from whole day array
-	  #f.puts "else_end"
+	f.printf("\t\t%s-%s%-9s\r\n",startTime.strftime("%l:%M%p"), endTime.strftime("%l:%M%p"), cg) if (aday.length > 1 and rangestart.to_date<=startTime.to_date)# '=' require
+    aday = aday - residual  #take away the last shift array from the whole day array
+	residual=Array(startTime.to_i/60..endTime.to_i/60) #replace the last shift array by the current shift
+	aday = aday - residual  #take away current shift time from whole day array
 	end  
-	#f.puts "end_end"
-  else
-    #f.puts "ignored lines:"
-	f.puts "Warning: please recheck 24hr coverage above...........................\r\n" if ((aday.length > 1)) and line =~ /^Total Hours/  #to check if last day is 24h covered.
+  else    
   end
  end
 f.close
