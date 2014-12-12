@@ -1,3 +1,4 @@
 1. insert today's date after "schedule for client" on the top.
 2. after save in word, the layout changed and have to use pdf to preserve
 layout.  Why the layout cannot be preserved in word format?
+3. For new shift not starting on range start date, header broken.
