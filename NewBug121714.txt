@@ -1,0 +1,407 @@
+Need Help?
+ 
+JJJJ LLLLLLLL
+ Home Instead Senior Care
+
+Dashboard Live ViewDaily - ClientsDaily - Caregivers Weekly - ClientsWeekly - CaregiversCare FinderOffice Calendar ClientsInitial CallProspectsReferral SourcesCaregivers ApplicantsReferral Sources AccountingBillingPayroll Receivables ReportsCustomCustom BETACharts and Dashboards
+Schedules (Future)
+Dashboard ? Reports ? Schedules (Future)
+PrintSaveEmail
+Report Type
+
+
+Select Profile Tags:
+
+ACH/EFT*
+Alzheimer's*
+Arthritis*
+Assisted Living*
+Call Client First*
+Call Family First*
+CHF (Heart Condition)*
+Companionship*
+COPD (Lung Condition)*
+Credit Card Payments*
+Declined Media Release*
+Dementia (other than Alz)*
+Diabetes*
+Double Client*
+Government Contract*
+Home Helper*
+Hospice*
+Hospital*
+Hospital Discharge*
+Independent Living*
+LTC*
+LTC Print Copy of Invoice*
+Mail Copy of Invoice*
+Mail Monthly Schedule*
+Medicaid Waiver*
+Memory Care*
+Monthly Billing*
+Nursing Home*
+On Call*
+Overnight*
+Parkinson's*
+PEAQ Opt Out*
+PEAQ Responsible Party*
+Personal Services*
+Print Copy of Invoice*
+Private Pay*
+Readmission*
+Regular Billing*
+Rehab*
+Rehab Discharge*
+Responsible Party - Family*
+Responsible Party - Guardian*
+Responsible Party - Self*
+Service Deposit*
+Special Instructions*
+Specialized Services*
+Standby*
+Traditional Home*
+Transporation*
+VA Waiver*
+Period:
+ 
+ to  
+ Group By Date
+Group By:
+ Client
+ Caregiver
+Clients:
+ Select all
+
+
+Schedules by Client
+Date Range: 12/01/2014 - 12/31/2014
+Mmmmm, Jjjjjj
+Address: 
+
+Home Phone: (510) 793-1715
+Date/Time	Activity	Hours
+11/30/2014	CCCCCCC, LLLLLL: 11/30/2014 7:00 PM - 12/01/2014 2:30 AM	7.5
+12/01/2014	CCCCCCC, LLLLLL: 12/01/2014 9:00 PM - 12/02/2014 7:00 AM	10
+12/02/2014	CCCCCCC, LLLLLL: 12/02/2014 5:15 PM - 12/03/2014 7:00 AM	13.75
+12/03/2014	SSSSSSS, PPPPPP: 7:00 AM - 3:00 PM	8
+12/03/2014	JJJJJJJ, YYYYYYY: 3:00 PM - 9:00 PM	6
+12/03/2014	CCCCCCC, LLLLLL: 12/03/2014 9:00 PM - 12/04/2014 7:15 AM	10.25
+12/04/2014	TTTTT, CCCCCCC: 7:15 AM - 2:00 PM	6.75
+12/04/2014	CCCCCCC, LLLLLL: 2:00 PM - 9:00 PM	7
+12/04/2014	JJJJJJJ, YYYYYYY: 12/04/2014 9:00 PM - 12/05/2014 7:00 AM	10
+12/05/2014	SSSSSSS, PPPPPP: 7:15 AM - 2:00 PM	6.75
+12/05/2014	DDDD, SSSSSS: 2:00 PM - 6:00 PM	4
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/05/2014	DDDD, SSSSSS: 6:00 PM - 11:00 PM	5
+12/05/2014	BBBBBB, AAAAAAA: 12/05/2014 11:00 PM - 12/06/2014 7:00 AM	8
+12/06/2014	DDDDDDD, LLLL: 7:00 AM - 4:45 PM	9.75
+12/06/2014	DDDDDDD, EEEEEEE: 4:45 PM - 11:00 PM	6.25
+12/06/2014	BBBBBB, AAAAAAA: 12/06/2014 10:45 PM - 12/07/2014 7:00 AM	8.25
+12/07/2014	DDDDDDD, EEEEEEE: 7:00 AM - 3:00 PM	8
+12/07/2014	DDDDDDD, EEEEEEE: 3:00 PM - 9:00 PM	6
+12/07/2014	JJJJJJJ, YYYYYYY: 12/07/2014 9:00 PM - 12/08/2014 7:00 AM	10
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/08/2014	SSSSSSS, PPPPPP: 7:00 AM - 2:00 PM	7
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/08/2014	DDDDDDD, EEEEEEE: 2:00 PM - 9:00 PM	7
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/08/2014	JJJJJJJ, YYYYYYY: 12/08/2014 9:00 PM - 12/09/2014 7:00 AM	10
+12/09/2014	DDDDDDD, LLLL: 7:00 AM - 2:00 PM	7
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/09/2014	DDDDDDD, EEEEEEE: 2:00 PM - 9:00 PM	7
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/09/2014	JJJJJJJ, YYYYYYY: 12/09/2014 9:15 PM - 12/10/2014 7:00 AM	9.75
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/10/2014	SSSSSSS, PPPPPP: 7:00 AM - 2:00 PM	7
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/10/2014	JJJJJJJ, YYYYYYY: 2:00 PM - 7:00 PM	5
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/11/2014	MMMMM, JJJJJJ: 7:00 AM - 2:15 PM	7.25
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/12/2014	DDDDDDD, LLLL: 6:45 AM - 2:30 PM	7.75
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/12/2014	SSSSS, GGGGGGG: 2:45 PM - 7:00 PM	4.25
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/13/2014	DDDDDDDD, RRRRRRR: 7:00 AM - 2:00 PM	7
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/13/2014	SSSSS, GGGGGGG: 2:00 PM - 7:00 PM	5
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/14/2014	HHHHHH, DDDDDDD: 7:00 AM - 3:00 PM	8
+12/14/2014	JJJJJJJ, YYYYYYY: 3:00 PM - 7:00 PM	4
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/15/2014	HHHHHH, DDDDDDD: 7:00 AM - 2:00 PM	7
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/15/2014	JJJJJJJ, YYYYYYY: 2:00 PM - 7:00 PM	5
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/16/2014	HHHHHH, DDDDDDD: 7:00 AM - 2:00 PM	7
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/17/2014	HHHHHH, DDDDDDD: 7:00 AM - 2:00 PM	7
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/17/2014	JJJJJJJ, YYYYYYY: 2:00 PM - 7:00 PM	5
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/18/2014	HHHHHH, DDDDDDD: 7:00 AM - 2:00 PM	7
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/18/2014	JJJJJJJ, YYYYYYY: 2:00 PM - 7:00 PM	5
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/19/2014	HHHHHH, DDDDDDD: 7:00 AM - 2:00 PM	7
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/19/2014	DDDD, SSSSSS: 2:00 PM - 7:00 PM	5
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/20/2014	HHHHHH, DDDDDDD: 7:00 AM - 2:00 PM	7
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/20/2014	DDDD, SSSSSS: 2:00 PM - 7:00 PM	5
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/21/2014	HHHHHH, DDDDDDD: 7:00 AM - 3:00 PM	8
+12/21/2014	JJJJJJJ, YYYYYYY: 3:00 PM - 9:00 PM	6
+12/22/2014	SSSSSSS, PPPPPP: 7:00 AM - 2:00 PM	7
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/22/2014	JJJJJJJ, YYYYYYY: 2:00 PM - 7:00 PM	5
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/23/2014	HHHHHH, DDDDDDD: 7:00 AM - 2:00 PM	7
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/23/2014	JJJJJJJ, YYYYYYY: 2:00 PM - 7:00 PM	5
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/24/2014	SSSSSSS, PPPPPP: 7:00 AM - 2:00 PM	7
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/24/2014	JJJJJJJ, YYYYYYY: 2:00 PM - 7:00 PM	5
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/25/2014	HHHHHH, DDDDDDD: 7:00 AM - 2:00 PM	7
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/25/2014	JJJJJJJ, YYYYYYY: 2:00 PM - 7:00 PM	5
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/26/2014	SSSSSSS, PPPPPP: 7:00 AM - 3:00 PM	8
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/26/2014	HHHHHH, DDDDDDD: 3:00 PM - 7:00 PM	4
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/27/2014	HHHHHH, DDDDDDD: 7:00 AM - 7:00 PM	12
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/28/2014	HHHHHH, DDDDDDD: 7:00 AM - 3:00 PM	8
+12/28/2014	JJJJJJJ, YYYYYYY: 3:00 PM - 9:00 PM	6
+12/29/2014	SSSSSSS, PPPPPP: 7:00 AM - 2:00 PM	7
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/29/2014	JJJJJJJ, YYYYYYY: 2:00 PM - 7:00 PM	5
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/30/2014	HHHHHH, DDDDDDD: 7:00 AM - 2:00 PM	7
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/30/2014	JJJJJJJ, YYYYYYY: 2:00 PM - 7:00 PM	5
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/31/2014	HHHHHH, DDDDDDD: 7:00 AM - 2:00 PM	7
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+12/31/2014	JJJJJJJ, YYYYYYY: 2:00 PM - 7:00 PM	5
+Assist client with meal	
+Bathe the client	
+Prepare breakfast	
+Prepare dinner	
+Prepare lunch	
+Transfer with lift	
+Total Hours for MMMMMM, JJJJJJJJ:	 457.25
