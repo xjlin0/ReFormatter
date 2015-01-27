@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html>
+<html> <body bgcolor="#CCCCFF"> <font face="sans-serif">
 <body>
-<h1>Let's check shifts for 24 hr coverage and prepare a simplified schedule!</h1><h3><A HREF="javascript:history.go(0)">(Page reload is required for recheck!)</A></h3><hr>
+<h1>Let's check 24 hr coverage and prepare a simplified schedule!</h1><h3><A HREF="javascript:history.go(0)">(Page reload is required for recheck!)</A></h3><hr>
 
 <h2>Paste <i>Report</i> <u>Schedules (Future)</u> in the box below:</h2>
 <textarea id="inputTextarea" cols=70 rows=5 placeholder="Ctrl-A and Ctrl-C in CC report and Ctrl-P here."></textarea>
@@ -9,7 +9,7 @@
 <button type="button" onclick="download()">I've checked &amp; want to download the file.</button>
 <hr>
 <p id="output">
-<h3>How to use:</h3>
+<hr><h3>How to use:</h3>
 In CC, click on the <b>Reports</b> tab (not any submenu below), select <b>Schedules(Future)</b> as the report type. Select the <b><u>wider</u></b> range  (very important, don't just select the range to be checked. For example, if you want to check/reformat 1/13~1/27, please select the entire January, and manually check the shift on 1/1 and 1/31) and <b>check a single client's name</b> then click "Show Report".<br><br>
 
 <u><b><i>Caution: The first and the last shifts may not be shown or checked correctly, therefore, please select wider report range to ensure correct gap indicators!</i></b></u><br><br>
@@ -20,8 +20,10 @@ The checked result will be shown here with gap indicators.  Please make sure you
 
 You can click the "I've checked &amp; want to download the file" button to download the formated schedule for further editing in Word.  Unless otherwise directed, you can delete extra shifts in Word, <u>please send the client no more than biweekly schedule</u> because of unpredictable CGs future actions and changes. It's better to send the edited schedule in PDF format instead of Word format to avoid layout changes.
 </p>
-
+<hr><p id="version"></p>
 <script>
+var progVer = document.URL.split('/').slice(-1)[0];
+document.getElementById("version").innerHTML = "Author: Jack@HISC-291, Program information: "+progVer;
 // copy from ShortShifts003.htm
 function read_shift(single_line){
   shift_date=single_line.split(',')[0].split(' ')[0].substring(0,10);
@@ -139,7 +141,7 @@ function reFormat() {
       header = false;
     if (rangestart > s){ aday = [] }; // suppressing 24hr check before range
     }else{
-      if (aday.length > 1 && /^Total Hours/.test(input[i])) output += '<tr><td colspan="2">Warning: please recheck 24hr coverage above...........................</td></tr>'; // R61: last shift catcher
+      if (aday.length > 1 && /^Total Hours/.test(input[i])) output += '<tr><td colspan="2"><br>Warning: please recheck 24hr coverage above...........................</br></td></tr>'; // R61: last shift catcher
     } //ending R69
   } //ending R63
   document.getElementById("output").innerHTML = output;
